@@ -16,3 +16,4 @@ class TryWatchVipQualityHook(classLoader: ClassLoader) : BaseHook(classLoader) {
             it.result = false
         }
     }
+}
